@@ -1,0 +1,1 @@
+-keep class com.sanad.app645347.** { *; }
